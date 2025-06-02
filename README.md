@@ -5,13 +5,13 @@
 **Course:** CPSC 201 – Business Information Systems
 
 ## 🔍 Summary
--Collected and cleaned raw data in Excel, using formulas and filters for basic preprocessing.
--Exported the cleaned data as a .csv file for compatibility with Python.
--Imported the .csv into Google Colab using Pandas for advanced analysis.
--Replicated common Excel functions (e.g., sum, average, count, sorting) using Python code.
--Used Matplotlib and Seaborn libraries to visualize the data through bar charts, line graphs, and pie charts.
--Presented the analysis and insights directly within the Colab notebook using text cells and visual outputs.
--Uploaded final files (Excel, Colab .ipynb, charts, and a README) to GitHub for version control and easy sharing.
+- Collected and cleaned raw data in Excel, using formulas and filters for basic preprocessing.
+- Exported the cleaned data as a .csv file for compatibility with Python.
+- Imported the .csv into Google Colab using Pandas for advanced analysis.
+- Replicated common Excel functions (e.g., sum, average, count, sorting) using Python code.
+- Used Matplotlib and Seaborn libraries to visualize the data through bar charts, line graphs, and pie charts.
+- Presented the analysis and insights directly within the Colab notebook using text cells and visual outputs.
+- Uploaded final files (Excel, Colab .ipynb, charts, and a README) to GitHub for version control and easy sharing.
 
 ## 📁 Files
 - .ipynb (Python version)
