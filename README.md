@@ -26,12 +26,12 @@
 - Standard Class dominates shipping preference.
 
 ## 💡 Python vs Excel
-* Use Python for:
+* Use Python for
 -Large or complex data sets
 -Automation and repeatable workflows
 -Machine learning or advanced modeling
 
-* Use Excel for:
+* Use Excel for
 -Simple calculations and quick analyses
 -Small data sets
 -Interactive dashboards without coding
